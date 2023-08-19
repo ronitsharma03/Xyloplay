@@ -1,16 +1,18 @@
 # xylophone_app
 
-A new Flutter project.
+A xylophone music playing app.
+To use the app/ Go to download app folder and download xyloplay.apk and install.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone the repositiory to your local machine 
 
-A few resources to get you started if this is your first Flutter project:
+Run : git clone https://github.com/ronitsharma03/Xyloplay.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Setup the local environment
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Must have Flutter installed, JDK, Android studio or Vs code, one virtual Android emulator.
+
+
+
+
